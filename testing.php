@@ -1,4 +1,1 @@
-<?php 
-phpinfo();
-echo "this is ramesh";
-?>
+amit is good boy
