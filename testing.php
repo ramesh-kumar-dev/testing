@@ -1,1 +1,4 @@
-amit
+<?php 
+phpinfo();
+echo "this is ramesh";
+?>
