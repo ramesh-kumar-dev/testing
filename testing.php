@@ -1,1 +1,1 @@
-amit is good boy 
+syntax error
